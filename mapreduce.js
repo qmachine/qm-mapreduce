@@ -74,7 +74,7 @@
                 return evt.fail(exps + 'its second argument to be a function.');
             }
             if ((argc === 3) && ((optionsObj instanceof Object) === false)) {
-                return evt.fail(exps + 'its input argument to be an object.');
+                return evt.fail(exps + 'its third argument to be an object.');
             }
             if ((this.val instanceof Array) === false) {
                 return evt.fail(exps + '`this.val` to be an array.');

@@ -11,7 +11,9 @@
     "description": "A client-side MapReduce engine built on QMachine",
     "homepage": "https://www.qmachine.org",
     "ignore": [
-        "index.html"
+        "index.html",
+        "main.js",
+        "tests.js"
     ],
     "keywords": [
         "MapReduce",
