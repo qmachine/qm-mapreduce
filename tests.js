@@ -2,7 +2,7 @@
 
 //- tests.js ~~
 //                                                      ~~ (c) SRW, 10 May 2014
-//                                                  ~~ last updated 10 May 2014
+//                                                  ~~ last updated 11 May 2014
 
 (function (global) {
     'use strict';
@@ -15,7 +15,9 @@
 
     /*jslint indent: 4, maxlen: 80 */
 
-    /*properties */
+    /*properties
+        hasOwnProperty
+    */
 
  // Prerequisites
 
@@ -48,7 +50,7 @@
 }(Function.prototype.call.call(function (that) {
     'use strict';
 
- // See "https://www.qmachine.org/q.js" for explanation.
+ // See "mapreduce.js" for explanation.
 
     /*global global: false */
     /*jslint indent: 4, maxlen: 80 */
