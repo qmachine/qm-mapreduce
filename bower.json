@@ -6,7 +6,7 @@
         }
     ],
     "dependencies": {
-        "qm": "1.1.8"
+        "qm": "1.1.9"
     },
     "description": "A client-side MapReduce engine built on QMachine",
     "homepage": "https://www.qmachine.org",
@@ -25,5 +25,5 @@
         "./mapreduce.js"
     ],
     "name": "mapreduce",
-    "version": "0.0.1"
+    "version": "0.0.2"
 }
